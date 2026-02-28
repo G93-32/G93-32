@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm G93-32</h1>
-<h3 align="center">Web Developer from Kenya</h3>
+<h1 align="center">Hi 🐱‍🏍, I'm G93-32</h1>
+<h3 align="center">Web Developer from earth</h3>
 
-- 💬 Ask me about **react,java script**
+- 💬 Ask me about **Anything and everything**
 
 - 📫 How to reach me **gvrj0t@gmail.com**
 
